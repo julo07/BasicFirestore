@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965921135751",
+    "project_id": "basicfirebaseregandlogin",
+    "storage_bucket": "basicfirebaseregandlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965921135751:android:7f5ffa1f34d39e2070ac22",
+        "android_client_info": {
+          "package_name": "com.example.basicfirebaseregandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965921135751-62332eb6kf0reohg0o35pff1bor3bfq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKF6zAywrn4zj8OWjhlyv0aYqjiUtPEYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965921135751-62332eb6kf0reohg0o35pff1bor3bfq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
